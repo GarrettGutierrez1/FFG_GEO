@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Unignore
+!ffg_geo
+!ffg_geo/**
+!requirements.txt
+
+# Reignore
+__pycache__
